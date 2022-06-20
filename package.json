@@ -1,0 +1,26 @@
+{
+  "name": "plume",
+  "version": "1.0.0",
+  "description": "ts/koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmioPara/plume.git"
+  },
+  "keywords": [
+    "ts",
+    "koa",
+    "http",
+    "web",
+    "dubbo"
+  ],
+  "author": "lmio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmioPara/plume/issues"
+  },
+  "homepage": "https://github.com/lmioPara/plume#readme"
+}
